@@ -1,0 +1,21 @@
+# Скомпилированные файлы и артефакты сборки
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+*.dll
+build/
+debug/
+release/
+
+# Настройки IDE
+.vscode/
+.vs/
+*.user
+
+# Временные файлы
+*.tmp
+*.log
+*.bak
